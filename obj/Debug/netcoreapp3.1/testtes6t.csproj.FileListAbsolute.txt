@@ -1,0 +1,13 @@
+C:\Users\lenna\source\repos\testtes6t\bin\Debug\netcoreapp3.1\testtes6t.exe
+C:\Users\lenna\source\repos\testtes6t\bin\Debug\netcoreapp3.1\testtes6t.deps.json
+C:\Users\lenna\source\repos\testtes6t\bin\Debug\netcoreapp3.1\testtes6t.runtimeconfig.json
+C:\Users\lenna\source\repos\testtes6t\bin\Debug\netcoreapp3.1\testtes6t.runtimeconfig.dev.json
+C:\Users\lenna\source\repos\testtes6t\bin\Debug\netcoreapp3.1\testtes6t.dll
+C:\Users\lenna\source\repos\testtes6t\bin\Debug\netcoreapp3.1\testtes6t.pdb
+C:\Users\lenna\source\repos\testtes6t\obj\Debug\netcoreapp3.1\testtes6t.csprojAssemblyReference.cache
+C:\Users\lenna\source\repos\testtes6t\obj\Debug\netcoreapp3.1\testtes6t.AssemblyInfoInputs.cache
+C:\Users\lenna\source\repos\testtes6t\obj\Debug\netcoreapp3.1\testtes6t.AssemblyInfo.cs
+C:\Users\lenna\source\repos\testtes6t\obj\Debug\netcoreapp3.1\testtes6t.csproj.CoreCompileInputs.cache
+C:\Users\lenna\source\repos\testtes6t\obj\Debug\netcoreapp3.1\testtes6t.dll
+C:\Users\lenna\source\repos\testtes6t\obj\Debug\netcoreapp3.1\testtes6t.pdb
+C:\Users\lenna\source\repos\testtes6t\obj\Debug\netcoreapp3.1\testtes6t.genruntimeconfig.cache
