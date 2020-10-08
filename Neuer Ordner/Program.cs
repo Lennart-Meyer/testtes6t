@@ -8,8 +8,6 @@ namespace testtes6t
 {
     class Program
     {
-
-
         static void Main(string[] args)
         {
             string phrase = "Giraffe Academy";
@@ -17,9 +15,9 @@ namespace testtes6t
             int age = 30;
             double gpa = 3.0 ;
             bool isMale = true;
+            
+            Console.WriteLine("neue Name für das hier alles");
 
-            Console.WriteLine("GiraffeAcadamy");
-			Console. WriteLine ("Fuck off");
             Console.WriteLine();
 
 
